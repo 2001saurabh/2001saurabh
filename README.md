@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2001saurabh&label=Profile%20views&color=0e75b6&style=flat" alt="2001saurabh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=2001saurabh" alt="2001saurabh" /></a> </p>
-
 - 🔭 I’m currently working on [Contact-app](https://contact17.herokuapp.com/#/)
 
 - 🌱 I’m currently learning **MERN STACK**
